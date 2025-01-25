@@ -1,0 +1,7 @@
+This is the description text for the Business Analytics Project:
+
+1. Please ensure that any libraries required to run this Shiny Dashboard are downloaded to avoid errors while running the program.
+
+2. Before running the script, please run rm(list = ls()) in your console to reset your R environment.
+
+3. Please make sure to replace the file path with the new file path for 'file_02.csv'.
